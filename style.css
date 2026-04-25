@@ -45,7 +45,7 @@ footer {
 }
 
 .profile-pic:hover {
-    zoom: 150%;
+    transform: scale (1,5);
     transition: 0.9s;
     cursor: pointer;
 }
